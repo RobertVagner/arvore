@@ -1,0 +1,4 @@
+﻿  prinABB.cpp
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\COMPLEXIDADE DE ALGORITIMOS\CE\Arvores\ABB\prinABB.cpp(37,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\COMPLEXIDADE DE ALGORITIMOS\CE\Arvores\ABB\prinABB.cpp(253): warning C4715: 'findC': nem todos os caminhos de controle retornam um valor
+  ABB.vcxproj -> C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\COMPLEXIDADE DE ALGORITIMOS\CE\Arvores\x64\Debug\ABB.exe
